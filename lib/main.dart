@@ -100,7 +100,7 @@ class _SignupPageState extends State<SignupPage> {
         TextButton(onPressed: () => Navigator.pop(context), child: const Text('Already have an account? Log in')),
         const SizedBox(height: 12),
         const Text('Demo only: account details are not saved to a server.', textAlign: TextAlign.center, style: TextStyle(color: muted, fontSize: 12)),
-      ])))));
+      ]))))));
 }
 
 class Post {
