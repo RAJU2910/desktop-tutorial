@@ -1,5 +1,5 @@
-name: student_management_portal
-description: A Flutter web student management demo using a public REST API.
+name: instalite_flutter
+description: A Flutter web learning app with login, signup, feed, and profile screens.
 publish_to: 'none'
 version: 1.0.0+1
 environment:
